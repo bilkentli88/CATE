@@ -304,7 +304,7 @@ If you use this repository, please cite the corresponding manuscript:
 ```bibtex
 @article{altay2026classifieraware,
   title={Classifier-Aware Temporal Evidence Decomposition for Explainable Time-Series Decisions},
-  author={Altay, Tayip},
+  author={Altay, A. T.},
   journal={Manuscript under review},
   year={2026}
 }
@@ -316,11 +316,9 @@ Please update the citation after publication.
 
 ## License
 
-Add the license selected for this repository here.
 
-Recommended source-code licenses:
 
 - MIT License
-- Apache 2.0 License
 
-For source code, MIT or Apache 2.0 is usually more appropriate than a Creative Commons license.
+
+
