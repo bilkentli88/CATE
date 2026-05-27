@@ -249,20 +249,8 @@ Results/classifier_aware_qualitative_profiles_<timestamp>/
 
 ---
 
-## Reproducibility Notes
 
-The main manuscript uses the following random seeds:
 
-| Experiment | Seeds |
-|---|---|
-| Aggregation ablation | 2025, 2026, 2027, 2028, 2029 |
-| Evidence deletion curves | 2025, 2026, 2027, 2028, 2029 |
-| XAI faithfulness against gradient baselines | 2025, 2026, 2027 |
-| Qualitative profiles | 2025 |
-
-The XAI faithfulness experiment uses three seeds because it requires training the classifier and evaluating multiple explanation methods, including gradient-based baselines and Integrated Gradients.
-
----
 
 ## Method Summary
 
